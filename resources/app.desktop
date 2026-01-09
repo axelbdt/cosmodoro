@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Cosmodoro
+Comment=A pomodoro applet for the COSMIC™ desktop
+Type=Application
+Icon=com.github.axelbdt.cosmodoro
+Exec=cosmodoro %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+MimeType=
