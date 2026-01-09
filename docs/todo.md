@@ -1,0 +1,1 @@
+- [] Package as a nix  module installable with home manager
